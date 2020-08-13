@@ -1,4 +1,5 @@
 Hello M8's
-This GitHub is my way of learning to become a DevOps Eng
+This GitHub is my way of learning to become a DevOps Eng.
 
-
+Regards,
+ThatsMyName92.
