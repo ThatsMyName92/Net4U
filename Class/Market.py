@@ -24,7 +24,7 @@ total=sum1+sum2+sum3+sum4
 totvat=total*1.17
 sleep(2)
 print("\nYour Bill is: ------ " + str(total) + "$")
-print("Your Bill including VAT: ------ " + str(totvat) + "$\n\n----------------------")
+print("Your Bill including VAT: ------ " + str("%.2f" % (totvat)) + "$\n\n----------------------")
 
 
 
