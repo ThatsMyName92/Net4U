@@ -24,8 +24,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="120a0d4d-4950-492f-9812-d30d711edac3" name="Default Changelist" comment="Lesson">
-      <change afterPath="$PROJECT_DIR$/Class/Market.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Net4U.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Net4U.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Market.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Market.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,8 +76,8 @@
       <recent name="C:\Users\iliya\Documents\GitHub\Net4U\Class" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test123">
-    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Market">
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Net4U" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,6 +119,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lottery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Net4U" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iliya\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/Lottery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Market" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Net4U" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Menu2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Net4U" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\iliya\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/Math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/Menu2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,37 +203,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Net4U" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\iliya\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/test123.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test123" />
         <item itemvalue="Python.Market" />
-        <item itemvalue="Python.Math" />
-        <item itemvalue="Python.10" />
+        <item itemvalue="Python.Menu2" />
+        <item itemvalue="Python.17" />
         <item itemvalue="Python.18" />
+        <item itemvalue="Python.Lottery" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -252,38 +255,48 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597320664723" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598799573032">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1598799573032" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1597320649846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1597320649846" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1597331779054">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="459" y="190" key="FileChooserDialogImpl" timestamp="1598308757201">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597331779054" />
-    <state width="746" height="252" key="GridCell.Tab.0.bottom" timestamp="1597486929806">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="459" y="190" key="FileChooserDialogImpl/0.23.1440.832@0.23.1440.832" timestamp="1598308757201" />
+    <state width="1379" height="203" key="GridCell.Tab.0.bottom" timestamp="1598309063983">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1259" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597342366583" />
     <state width="746" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597486929806" />
-    <state width="746" height="252" key="GridCell.Tab.0.center" timestamp="1597486929806">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1379" height="203" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1598309063983" />
+    <state width="1379" height="203" key="GridCell.Tab.0.center" timestamp="1598309063982">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1259" height="210" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597342366583" />
     <state width="746" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597486929806" />
-    <state width="746" height="252" key="GridCell.Tab.0.left" timestamp="1597486929806">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1379" height="203" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1598309063982" />
+    <state width="1379" height="203" key="GridCell.Tab.0.left" timestamp="1598309063982">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1259" height="210" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597342366583" />
     <state width="746" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597486929806" />
-    <state width="746" height="252" key="GridCell.Tab.0.right" timestamp="1597486929806">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1379" height="203" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1598309063982" />
+    <state width="1379" height="203" key="GridCell.Tab.0.right" timestamp="1598309063982">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1259" height="210" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597342366583" />
     <state width="746" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597486929806" />
-    <state x="238" y="101" width="981" height="707" key="SettingsEditor" timestamp="1597331791165">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1379" height="203" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1598309063982" />
+    <state x="223" y="125" width="920" height="722" key="SettingsEditor" timestamp="1598309036086">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="238" y="101" width="981" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597331791165" />
+    <state x="223" y="125" width="920" height="722" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1598309036086" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597335855731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
